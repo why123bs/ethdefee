@@ -1,10 +1,10 @@
 # ethdefee
-ubuntu下
+ubuntu系统执行
 apt update
 
 apt install git
 
-centos下
+centos系统执行
 yum update
 
 yum install git
