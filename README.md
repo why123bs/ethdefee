@@ -1,6 +1,11 @@
 声明:软件不是我的，我只是用着不错，和大家分享，稳定高效，我实测作者是只收开发费0.5没有暗抽大家放心用
 # ethdefee ETH抽水神器
 
+                QQ群
+![image](https://user-images.githubusercontent.com/93153580/147377346-6a5417cb-0714-459b-98a9-3177eb268acb.png)
+
+
+
 安装有问题加电报群https://t.me/cnpools   群内有技术支持（随意打赏就可以）
 
 ubuntu系统执行
