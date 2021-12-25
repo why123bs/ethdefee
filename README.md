@@ -30,3 +30,4 @@ nohup ./web &
 然后新建转发和抽水就可以了
 
 有问题加电报群一起交流https://t.me/cnpools
+![image](https://user-images.githubusercontent.com/93153580/147375657-46f0ee83-a153-453a-81c8-f23bdb6ac407.png)
