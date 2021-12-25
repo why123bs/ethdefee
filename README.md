@@ -8,6 +8,8 @@
 
 安装有问题加电报群https://t.me/cnpools   群内有技术支持（随意打赏就可以）包售后软件更新一系列
 
+安装方法：
+
 ubuntu系统执行
 
 apt update
