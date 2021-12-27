@@ -1,4 +1,6 @@
 声明:软件不是我的，我只是用着不错，和大家分享，稳定高效
+
+
 # ethdefee ETH抽水神器
 
                 QQ群
@@ -40,7 +42,7 @@ nohup ./web &
 连接上以后先修改自己的TOKEN  就是密码
 然后新建转发和抽水就可以了
 
-
+https://youtu.be/bTSjttvWgO4  视频教程
 
 
 ![image](https://user-images.githubusercontent.com/93153580/147375657-46f0ee83-a153-453a-81c8-f23bdb6ac407.png)
