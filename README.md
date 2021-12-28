@@ -8,7 +8,10 @@
 2021-12-27 19:16 >修复了内存溢出的问题,稳如老狗
 
 
-                QQ群712284944
+                QQ群
+![image](https://user-images.githubusercontent.com/93153580/147578466-ca1263e7-031b-493f-b7db-11510d58504d.png)
+              
+
 
 
 
