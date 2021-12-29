@@ -11,7 +11,7 @@
 
 安装有问题加电报群https://t.me/cnpools   群内有技术支持（随意打赏就可以）包售后软件更新一系列
 
-WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/webwindows.rar
+WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/web.rar
 
 Linux安装方法：
 
