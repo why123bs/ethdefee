@@ -7,18 +7,11 @@
 
 2021-12-27 19:16 >修复了内存溢出的问题,稳如老狗
 
-
-                QQ群
-![image](https://user-images.githubusercontent.com/93153580/147578466-ca1263e7-031b-493f-b7db-11510d58504d.png)
-              
-
-
-
-
+  
 
 安装有问题加电报群https://t.me/cnpools   群内有技术支持（随意打赏就可以）包售后软件更新一系列
 
-WINDOWS版本也有，须要到QQ群下载
+WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/webwindows.rar
 
 Linux安装方法：
 
