@@ -11,6 +11,8 @@
 
 安装有问题加电报群https://t.me/cnpools   群内有技术支持 看了教程还不会用linux的最下边有windows版本下载地址
 
+不想自己塔建节点的加矿池分享群https://t.me/poolssl  所有地址0.3%抽水 
+
 
 Linux安装方法：
 
