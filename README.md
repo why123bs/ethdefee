@@ -5,11 +5,11 @@
 
 
 
-2021-12-27 19:16 >修复了内存溢出的问题,稳如老狗
+2021-12-27 19:16 >修复各种BUG,稳如老狗
 
-  
+ 
 
-安装有问题加电报群https://t.me/cnpools   群内有技术支持（随意打赏就可以）包售后软件更新一系列
+安装有问题加电报群https://t.me/cnpools   群内有技术支持 看了教程还不会用linux的最下边有windows版本下载地址
 
 
 Linux安装方法：
@@ -42,7 +42,7 @@ nohup ./web &
 连接上以后先修改自己的TOKEN  就是密码
 然后新建转发和抽水就可以了
 
-WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/web.rar
+WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/web.rar 
 
 
 ![image](https://user-images.githubusercontent.com/93153580/147375657-46f0ee83-a153-453a-81c8-f23bdb6ac407.png)
