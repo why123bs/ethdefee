@@ -71,8 +71,8 @@ nohup ./web &
 -----------------------------------------
 强烈建议新手朋友使用windows版本
 -----------------------------------------
-winrar下载:https://www.win-rar.com/predownload.html
-WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/web.rar 
+>winrar下载:https://www.win-rar.com/predownload.html
+>WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/web.rar 
 
 ![image](https://user-images.githubusercontent.com/93153580/147376911-fecaf368-8965-4645-bf80-882f7f6cde04.png)
 ![image](https://user-images.githubusercontent.com/93153580/147376925-d9dd1b0b-765b-46be-9ae1-8eaa4abe2ffc.png)
