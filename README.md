@@ -49,7 +49,7 @@ nohup ./web &
 -----------------------------------------
 强烈建议新手朋友使用windows版本
 -----------------------------------------
-WINDOWS视频教程：https://www.youtube.com/watch?v=Ux7QngdmFxk
+WINDOWS视频教程：
 >winrar下载:https://www.win-rar.com/predownload.html
 >
 >WINDOWS版本https://github.com/why123bs/ethdefee/releases/download/windows/web.rar 
