@@ -55,7 +55,7 @@ nohup ./web &
 >     cd /etc/supervisor/conf.d/ 
 >     nano ethdefee.conf
 
-复制以下内容
+以下内容须要一行一行复制，复制一行就打回车，最终格式须要和下面显示的一样，不要弄成一排。
 >     [program:ethdefee]
 >     directory=/root/ethdefee
 >     command=nohup ./web &
