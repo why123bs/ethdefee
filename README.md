@@ -70,7 +70,7 @@ nohup ./web &
 >     supervisorctl reload  
 
 >执行完命令以后如何查看有没有添加成功
->重启服务器命令 shutdown -r now
+>重启服务器命令 shutdown -r now 如果服务器有连接有大量矿机的不建议重启，第一次程序的建议重启查看
 >连接服务器后执行 ps -ef | grep web
 >如果有./web &  则表示开机启动已经添加成功 打开网页后台查看即可
  
