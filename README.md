@@ -45,29 +45,7 @@ nohup ./web &
 然后新建转发和抽水就可以了
 
 ----------------------------------------
-# 注意 
-# 添加程序的开机启动项，最后一步视频教程里没讲但非常重要
->不会添加的联系 https://t.me/nndnra1 技术支持没有服务费
 
->默认程序在服务器系统重启后，是没有跟随系统启动的，按步骤执行如下命令
-
->     apt install supervisor -y
->     cd /etc/supervisor/conf.d/ 
->     nano ethdefee.conf
-
-复制以下内容
->     [program:ethdefee]
->     command=nohup ./web & 
->     directory=/root/ethdefee 
->     autostart=true 
->     autorestart=true 
->     user=root
-粘贴后
->     ctrl+字母o  保存
->      按下回车键
->     ctrl+字母x  退出
-命令行执行
->     supervisorctl reload  
 -----------------------------------------
 强烈建议新手朋友使用windows版本
 -----------------------------------------
