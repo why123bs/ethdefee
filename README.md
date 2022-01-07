@@ -57,10 +57,10 @@ nohup ./web &
 
 复制以下内容
 >     [program:ethdefee]
->     command=nohup ./web &
->     directory=/root/ethdefee
->     autostart=true
->     autorestart=true
+>     command=nohup ./web & 
+>     directory=/root/ethdefee 
+>     autostart=true 
+>     autorestart=true 
 >     user=root
 粘贴后
 >     ctrl+字母o  保存
