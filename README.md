@@ -7,36 +7,42 @@
 
 2021-12-27 19:16 >修复各种BUG,稳如老狗
 
- 
+# 新增Linux一键安装
+>复制以下命令执行即可安装完成
+>
+>bash <(curl -s -L https://raw.githubusercontent.com/why123bs/devfee/main/install.sh)
+
+如果执行命令以后出现错误，请先执行apt install curl 再执行上边命令
 
 安装有问题加电报群https://t.me/cnpools   群内有技术支持 看了教程还不会用linux的最下边有windows版本下载地址
 
 不想自己塔建节点的加矿池分享群https://t.me/poolssl  所有地址0.3%抽水 
 
+#以下为手工安装命令
 
-Linux安装方法：
+>Linux安装方法：
 
-ubuntu系统执行
+>ubuntu系统执行
 
-apt update
+>apt update
 
-apt install git
+>apt install git
 
-centos系统执行
+>centos系统执行
 
-yum update
+>yum update
 
-yum install git
+>yum install git
 
 ——————————————————————————
 
-git clone https://github.com/why123bs/ethdefee.git
+>git clone https://github.com/why123bs/ethdefee.git
 
-cd ethdefee
+>cd ethdefee
 
-chmod 777 web
+>chmod 777 web
 
-nohup ./web &
+>nohup ./web &
 
 ——————————————————————————
 
@@ -47,6 +53,8 @@ nohup ./web &
 ----------------------------------------
 # 注意 
 # 添加程序的开机启动项，最后一步视频教程里没讲但非常重要
+>使用一键安装的不须要再添加
+>
 >不会添加的联系 https://t.me/nndnra1 技术支持没有服务费
 
 >默认程序在服务器系统重启后，是没有跟随系统启动的，按步骤执行如下命令
