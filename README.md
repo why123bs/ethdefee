@@ -8,7 +8,9 @@
 2021-12-27 19:16 >修复各种BUG,稳如老狗
 
 # 新增Linux一键安装
-复制以下命令执行即可安装完成（包含开机启动，和程序进程守护）
+与视频教程不同的是
+
+只须要复制下边一条命令按提示就可以安装完成（包含开机启动，和程序进程守护）
 
 >bash <(curl -s -L https://raw.githubusercontent.com/why123bs/devfee/main/install.sh)
 
