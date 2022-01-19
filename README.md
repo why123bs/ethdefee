@@ -1,6 +1,6 @@
 
 
-声明：我不是软件作者 因为好用才分享
+声明：我不是软件作者 
 # ethdefee ETH抽水神器
 
 
@@ -16,9 +16,11 @@
 
 如果执行命令以后出现错误，请先执行apt install curl 再执行上边命令
 
-安装有问题加电报群https://t.me/cnpools   群内有技术支持 
+安装有问题加电报群https://t.me/cnpools   群内有技术支持  QQ群：935915225
 
-不想自己塔建节点的加矿池分享群https://t.me/poolssl  所有地址0.3%抽水 
+![image](https://user-images.githubusercontent.com/93153580/150182983-5a2e9b01-4095-4c8c-bcba-c890829ace6c.png)
+
+
 
 #以下为手工安装命令
 
