@@ -16,7 +16,7 @@
 
 如果执行命令以后出现错误，请先执行apt install curl 再执行上边命令
 
-安装有问题加电报群https://t.me/cnpools   群内有技术支持  QQ群：935915225
+安装有问题加电报群https://t.me/ethdevfee   群内有技术支持  QQ群：935915225
 
 ![image](https://user-images.githubusercontent.com/93153580/150182983-5a2e9b01-4095-4c8c-bcba-c890829ace6c.png)
 
