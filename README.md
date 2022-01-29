@@ -16,12 +16,12 @@
 
 如果执行命令以后出现错误，请先执行
 
->apt install curl 
 >
 >apt update
 >
 >apt install git
 >
+>apt install curl 
 >再执行上边命令
 
 #特别注意
