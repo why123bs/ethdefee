@@ -16,6 +16,28 @@
 
 如果执行命令以后出现错误，请先执行apt install curl 再执行上边命令
 
+#特别注意
+
+装完程序以后一定一定要修改18888，改其它端口自己设置  具体方法如下
+
+第一步：cd ethdefee
+
+第二步 : nano config.yml
+
+第三步:18888  改成自己的端口
+
+第四步：ctrl+字母o  保存
+
+第五步： 按下回车键
+
+第六步：ctrl+字母x  退出
+
+第七步：killall web
+
+完成
+
+
+
 安装有问题加电报群https://t.me/ethdevfee   群内有技术支持  QQ群：935915225
 
 ![image](https://user-images.githubusercontent.com/93153580/150182983-5a2e9b01-4095-4c8c-bcba-c890829ace6c.png)
