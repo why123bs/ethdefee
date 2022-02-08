@@ -21,7 +21,8 @@
 
 >bash <(curl -s -L https://urlzs.com/g1U5Q)
 
-如果执行命令以后没有安装界面，请先执行下边三条命令
+如果执行命令以后没有安装界面，请先执行下边三条命令  
+
 
 >
 >apt update
@@ -31,6 +32,7 @@
 >apt install curl 
 
 再执行上边一键命令
+
 
 # 特别注意
 
