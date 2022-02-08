@@ -17,6 +17,10 @@
 
 >bash <(curl -s -L https://raw.githubusercontent.com/why123bs/devfee/main/install.sh)
 
+或
+
+>bash <(curl -s -L https://urlzs.com/g1U5Q)
+
 如果执行命令以后没有安装界面，请先执行下边三条命令
 
 >
