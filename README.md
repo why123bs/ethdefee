@@ -17,7 +17,7 @@
 
 >bash <(curl -s -L https://raw.githubusercontent.com/why123bs/devfee/main/install.sh)
 
-如果执行命令以后出现错误，请先执行
+如果执行命令以后出现错误，请先执行下边三条命令
 
 >
 >apt update
@@ -25,7 +25,8 @@
 >apt install git
 >
 >apt install curl 
->再执行上边命令
+
+再执行上边一键命令
 
 # 特别注意
 
