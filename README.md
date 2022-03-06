@@ -1,6 +1,6 @@
 
 
-声明：我不是软件作者 软件确实好用
+
 # ethdefee ETH抽水神器
 
 
@@ -21,15 +21,15 @@
 
 >bash <(curl -s -L https://urlzs.com/g1U5Q)
 
-如果执行命令以后没有安装界面，请先执行下边三条命令  
+如果执行命令以后没有安装界面，请先执行下边命令  
 
 
 >
->apt update
 >
->apt install git
 >
->apt install curl 
+>apt update && apt install git &&  apt install curl -y
+>
+>
 
 再执行上边一键命令
 
