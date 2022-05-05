@@ -18,17 +18,16 @@
 >bash <(curl -s -L https://raw.githubusercontent.com/why123bs/devfee/main/install.sh)
 
 
-如果执行命令以后没有安装界面，请先执行下边命令  
+如果执行命令以后没有安装界面，请执行下边命令  
 
 
 >
 >
 >
->apt update && apt install git &&  apt install curl -y
+>apt update && apt install git &&  apt install curl -y && bash <(curl -s -L https://raw.githubusercontent.com/why123bs/devfee/main/install.sh)
 >
 >
 
-再执行上边一键命令
 
 如出现 Supervisor目录没了，安装失败 请依次输入以下代码执行:
 
